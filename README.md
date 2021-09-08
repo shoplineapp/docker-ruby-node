@@ -1,3 +1,10 @@
 # docker-ruby-node
 
-Docker image with Ruby and Node.js with Yarn installed.
+Docker image with AWS CLI v2, Ruby 2.5.7, Node.js 12 and Yarn installed.
+
+## Image tags
+
+`debian-10`: change debian 9 to 10
+`awscli-2`: add aws cli v2
+`node-10`: install node.js 10
+`latest`: debian 9 and nodejs 12

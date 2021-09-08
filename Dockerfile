@@ -1,4 +1,4 @@
-FROM ruby:2.5.7-stretch
+FROM ruby:2.5.7
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
