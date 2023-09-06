@@ -1,9 +1,10 @@
 # docker-ruby-node
 
-Docker image with AWS CLI v2, Ruby 2.5.7, Node.js 16 and Yarn installed.
+Docker image with AWS CLI v2, Ruby 2.5.7, Node.js 20 and Yarn installed.
 
 ## Image tags
 
+`debian-10-nodejs-20`: change node.js 16 to 20.  
 `debian-10-nodejs-16`: change node.js 14 to 16.  
 `debian-10-nodejs-14`: change node.js 12 to 14.  
 `debian-10-nodejs-12`: change node.js 10 to 12.  
